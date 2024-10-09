@@ -1,0 +1,22 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "one on one and group chat application. Enjoy chating...",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratik-1732/Talksy-Chat-App.git"
+  },
+  "author": "Pratik Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratik-1732/Talksy-Chat-App/issues"
+  },
+  "homepage": "https://github.com/pratik-1732/Talksy-Chat-App#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
